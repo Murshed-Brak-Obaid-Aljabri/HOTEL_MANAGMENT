@@ -1,0 +1,42 @@
+C:\Users\96656\source\repos\Hotel System\Hotel System\bin\Debug\App.config
+C:\Users\96656\source\repos\Hotel System\Hotel System\bin\Debug\Hotel System.exe.config
+C:\Users\96656\source\repos\Hotel System\Hotel System\bin\Debug\Hotel System.exe
+C:\Users\96656\source\repos\Hotel System\Hotel System\bin\Debug\Hotel System.pdb
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel_System.Form1.resources
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel_System.Form2.resources
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel_System.Properties.Resources.resources
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel_System.UserControl1.resources
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel_System.UserControl2.resources
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel_System.UserControl3.resources
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel_System.UserControl4.resources
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel_System.UserControl5.resources
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel_System.UserControl6.resources
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel System.csproj.GenerateResource.cache
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel System.csproj.CoreCompileInputs.cache
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel System.exe
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel System.pdb
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel System.csproj.AssemblyReference.cache
+C:\Users\96656\source\repos\Hotel System\Hotel System\bin\Debug\HotelSittings.dll
+C:\Users\96656\source\repos\Hotel System\Hotel System\bin\Debug\HotelSittings.pdb
+C:\Users\96656\source\repos\Hotel System\Hotel System\obj\Debug\Hotel System.csproj.CopyComplete
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\bin\Debug\App.config
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\bin\Debug\Hotel System.exe.config
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\bin\Debug\Hotel System.exe
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\bin\Debug\Hotel System.pdb
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\bin\Debug\HotelSittings.dll
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\bin\Debug\HotelSittings.pdb
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel_System.Form1.resources
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel_System.Form2.resources
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel_System.Properties.Resources.resources
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel_System.UserControl1.resources
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel_System.UserControl2.resources
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel_System.UserControl3.resources
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel_System.UserControl4.resources
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel_System.UserControl5.resources
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel_System.UserControl6.resources
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel System.csproj.GenerateResource.cache
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel System.csproj.CoreCompileInputs.cache
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel System.csproj.CopyComplete
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel System.exe
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel System.pdb
+C:\Users\96656\Documents\نسخه 3\Hotel System\Hotel System\obj\Debug\Hotel System.csproj.AssemblyReference.cache
